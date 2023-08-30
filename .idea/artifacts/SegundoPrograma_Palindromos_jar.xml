@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SegundoPrograma_Palindromos:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SegundoPrograma_Palindromos_jar</output-path>
+    <root id="archive" name="SegundoPrograma_Palindromos.jar">
+      <element id="module-output" name="SegundoPrograma_Palindromos" />
+    </root>
+  </artifact>
+</component>
